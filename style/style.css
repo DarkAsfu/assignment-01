@@ -6,7 +6,7 @@
     padding: 0;
     font-family: 'Work Sans', sans-serif;
 }
-
+/* banner style start here */
 header {
     background: url(../images/banner/banner3.png);
     height: 808px;
@@ -53,7 +53,7 @@ a {
     font-size: 20px;
     color: #005FAC;
 }
-
+/* about section style start */
 .about-section {
     padding-top: 131px;
 }
@@ -95,7 +95,7 @@ a {
 i {
     color: #16D887;
 }
-
+/* plan section styling start */
 .plan-section {
     padding-top: 130px;
     width: 1141px;
@@ -135,7 +135,7 @@ i {
     line-height: 29px;
     color: #737272;
 }
-
+/* Gradient box style start here */
 .gradient-box {
     width: 1140px;
     padding-bottom: 190px;
@@ -162,7 +162,7 @@ i {
     margin-left: 64px;
     border-radius: 5px;
 }
-
+/* footer style start here */
 footer {
     background-color: #000;
 }
