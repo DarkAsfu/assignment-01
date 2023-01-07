@@ -227,3 +227,13 @@ footer {
     padding: 20px 36px;
     border-radius: 8px;
 }
+
+/* copy right style */
+.copy-right{
+    background-color:#151414;
+    padding: 20px 0;
+}
+.copyRight h5{
+    color: #F8F8F8;
+    text-align: center;
+}
