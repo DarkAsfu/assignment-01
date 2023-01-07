@@ -59,7 +59,7 @@ a{
     gap: 87px;
     
 }
-.about-info-title{
+.about-info-title, .plan-title{
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
@@ -81,4 +81,39 @@ a{
 }
 i{
     color: #16D887;
+}
+
+.plan-section{
+    padding-top: 130px;
+    width: 1141px;
+}
+.plan-title{
+    text-align: center;
+    padding-bottom: 34px;
+}
+.plans{
+    display: flex;
+    justify-content: space-between;
+    gap: 86px;
+    padding-bottom: 130px;
+}
+.plan .icon{
+    margin-left: 44px ;
+    padding-bottom: 27px;
+}
+.plan .planBox-title{
+    text-align: center;
+    padding-bottom: 16px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #151414;
+}
+.plan .planBox-desc{
+    text-align: center;
+    padding-bottom: 16px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    color: #737272;
 }
