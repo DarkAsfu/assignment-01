@@ -47,3 +47,38 @@ a{
     font-size: 20px;
     color: #005FAC;
 }
+.about-section{
+    padding-top: 131px;
+}
+.about{
+    width: 1072px;
+    height: 723px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    gap: 87px;
+    
+}
+.about-info-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+.about-info-desc{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    padding-bottom: 16px;
+}
+.list{
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+}
+i{
+    color: #16D887;
+}
