@@ -22,7 +22,7 @@ header{
 .banner-info .banner-title{
     padding-top: 216px;
     font-weight: 700;
-    font-size: 65px;
+    font-size: 60px;
     line-height: 76px;
     color: #fff;
     padding-bottom: 24px;
@@ -120,8 +120,24 @@ i{
 
 .gradient-box{
     width: 1140px;
-    padding-bottom: 130px;
+    padding-bottom: 190px;
+    position: relative;
 }
 .gra-img{
     margin-bottom: -305px;
+}
+.textArea h3{
+    text-align: left;
+    padding-bottom: 25px;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    color: #fff;
+    padding-left: 64px;
+    padding-top: 59px;
+    margin-top: -300px;
+}
+.textArea .btn{
+    margin-left: 64px;
+    border-radius: 5px;
 }
